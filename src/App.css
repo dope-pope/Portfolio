@@ -1,0 +1,243 @@
+.navigationItems1 {
+  color: orange;
+}
+.navigationItems2 {
+  background-color: black;
+  color: white;
+}
+.navigationItems3 {
+  color: green;
+}
+
+
+
+.appbarcss {
+  background: #e96443; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #904e95,
+    #e96443
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #904e95,
+    #e96443
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+
+
+.home {
+  background: #c6ffdd; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #f7797d,
+    #fbd786,
+    #c6ffdd
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #f7797d,
+    #fbd786,
+    #c6ffdd
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  height: 100%;
+  width: 100%;
+}
+.headerApp {
+  background: #c6ffdd; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #f7797d,
+    #fbd786,
+    #c6ffdd
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #f7797d,
+    #fbd786,
+    #304352
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.image1 {
+  display: block;
+  margin: auto;
+  height: 230px;
+  margin-top: 100px;
+  border-radius: 2em;
+}
+.image {
+  display: block;
+  margin: auto;
+  height: 30px;
+  margin-top: 5px;
+}
+
+.box {
+  background-color: #304352;
+  width: 50%;
+  color: aliceblue;
+  border-radius: 2em;
+  padding: 2em;
+  text-align: center;
+  margin: auto;
+  opacity: 0.7;
+}
+
+.box hr {
+  height: 30px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px 0 0 0;
+  border-radius: 20px;
+}
+
+.box p {
+  font-family: cursive;
+}
+.box h1 {
+  margin-top: 55px;
+}
+
+.home-icons {
+  font-size: 3.5em;
+  padding: 0.5em;
+}
+
+.space {
+  padding: 0.3em;
+}
+
+.contacts-main {
+  background: white #c6ffdd; /*fallback for old browsers*/
+  background: -webkit-linear-gradient(
+    to right,
+    #f7797d,
+    #fbd786,
+    #c6ffdd
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #f7797d,
+    #fbd786,
+    #c6ffdd
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  padding: 2em;
+}
+.contact-grid {
+  background-color: white;
+  /* border-color: black; */
+  /* border-style: solid; */
+  width: 60%;
+  height: 600px;
+  border-radius: 2em;
+}
+
+.cell1 {
+  border-color: white;
+  border-style: solid;
+  height: 550px;
+  border-right-color: violet;
+}
+
+.cell1-p {
+  padding: 1em;
+  font-style: italic;
+}
+
+.cell2-p {
+  padding: 1em;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 250%;
+}
+
+.table-1 {
+  font-size: 450%;
+}
+
+.resume-cell1 {
+  border-color: black;
+  border-style: solid;
+}
+
+.resume-cell2 {
+  border-color: black;
+  border-style: solid;
+}
+
+.resume-cell3 {
+  border-color: black;
+  border-style: solid;
+  height: 200px;
+}
+
+.resume-grid {
+  width: 148%;
+  height: 600px;
+}
+
+.about-grid2 {
+  border-color: white;
+  border-top-color: black;
+  border-style: solid;
+
+  height: 150px;
+}
+
+.about-grid {
+  border-color: white;
+  border-bottom-color: black;
+  border-style: solid;
+
+  height: 150px;
+}
+
+.about-cell1 {
+  width: 85%;
+  /* border-color: black; */
+  /* border-style: solid; */
+}
+
+.about-grid2 b {
+  font-family: "Times New Roman";
+  font-size: 150%;
+}
+
+.about-cell1 p {
+  font-family: "Times New Roman";
+  font-size: 190%;
+}
+
+.about-b {
+  font-family: "Times New Roman";
+  font-size: 180%;
+}
+
+.about-cell2 {
+  width: 10%;
+  border-color: black;
+  border-style: solid;
+}
+
+.abt-hr {
+  height: 1px;
+  background-color: #ccc;
+  border: none;
+}
+
+.about-image1 {
+  display: block;
+  margin: 1em;
+  height: 150px;
+  margin-top: 0px;
+  border-radius: 2em;
+}
+
+.resume-right-col {
+  background-color: black;
+  color: #c6ffdd;
+  padding: 2em;
+}
